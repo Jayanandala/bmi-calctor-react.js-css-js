@@ -1,0 +1,27 @@
+/* BMIForm.css */
+
+.input-section {
+    margin-bottom: 20px;
+    background-color: #f4f4f4; /* Light gray background */
+    padding: 20px; /* Add some padding for spacing */
+    border-radius: 8px; /* Add rounded corners */
+  }
+  
+  .slider-output {
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  .input-slider {
+    width: 100%;
+    background-color: #3dcb5c; /* White background */
+    border: 5px solid #614ed0; /* Gray border */
+    border-radius: 4px; /* Add rounded corners */
+    padding: 10px; /* Add some padding */
+  }
+  
+  .input-slider:focus {
+    outline: none; /* Remove focus outline */
+    border-color: #007bff; /* Change border color on focus */
+  }
+  
